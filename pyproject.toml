@@ -1,5 +1,4 @@
 [project]
-name = "bike-rental-analysis"
 version = "0.1.0"
 description = "Bike Rental Analysis"
 readme = "README.md"
